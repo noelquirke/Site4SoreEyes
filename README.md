@@ -1,9 +1,12 @@
 Site4SoreEyes
+
 Project - User-Centric Frontend Development - Code Institute.
+
+Project Summary
 The idea behind the project is to help introduce a user friendly site with some basic information.
 This Website is aimed to provide all the information you need to look after your sight, the simplest way possible.
 
-Showcase
+Website
 A deployed link to the website can be found here.
 https://noelquirke.github.io/Site4SoreEyes/index.html
 
@@ -13,7 +16,7 @@ My UX process is to make looking after your eyes easy. My project is aimed at us
 User Stories
 As a glasses wearer, I want to get information on conditions, frames and find nearby opticians, so that I can look after the health of my eyes. 
 
-Strategy
+Strategy 
 User Needs
 Technical Capabilites 
 Business Vision
@@ -22,18 +25,42 @@ Scope
 
 Structure
 Skeleton
+Design Decisions
 
 Features
-Existing Features
 Features left to implement
 
 Technologies Used
 
 Testing 
-Testing planning
-Implementation
+During the initial stages of the project I used Chrome developer tools for testing my site. Using the device toolbar to continually check that my structure and content worked on the mobile and desktop screen as intended. I frequently tested the different classes and rules that were applying to different elements to bug test on things that weren't behaving as they should, but also to test out possible solutions before moving those solutions into my code.
+
+I have tested the site in a range of browsers Chrome, Opera, Firefox, Microsoft edge and Internet explorer.
+
+I ran the HTML and the CSS through W3C Validation services to ensure that the code that i have written does not have any syntax errors.
+
 results and outcomes
 Deployment
+This site is hosted using Github pages, and is deployed directly from the master branch. You can view the website https://noelquirke.github.io/Site4SoreEyes/index.html
+
+Deployment Process
+To deploy this site to Github you can follow these steps.
+
+1. In your Github profile create a new repository, make sure to give it a unique name.
+2. Copy the remot repository URL from the Quick setup page.
+3. Open your Terminal aplication
+4. cd untill you are in the folder that contains your project.
+5. git init to create a .git file (make sure that you also have a README file).
+6. git add . will add all of your code and files
+7. git commit -m "initial commit Leave a commit message
+8. git remote add origin [https://...] Paste in the remot repository URL from the Quick setup page in your new Github repository
+9. git push -u origin master will push everything to your new repository
+10. In the settings tab of your new repository scroll down untill you see the Github pages setting and select 'master'.
+11. You can now see the link to your Github pages, make sure to paste it into your README file!
+
+You can read more at this Github help page
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
 Bugs
 
 Credits
