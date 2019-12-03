@@ -2,12 +2,12 @@ Site4SoreEyes
 This Website is aimed to provide all the information you need to look after your sight, the simplest way possible.
 
 UX
-My UX process is to make looking after your eyes easy. My project is aimed at patients who
+My UX process is to make looking after your eyes easy. My project is aimed at users who want information on common eye conditions, advice on picking the right frames, and finding an opticians nearby. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+As a glasses wearer, I want to get information on conditions, frames and find nearby opticians, so that I can look after the health of my eyes. 
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+My website can be found here.
+https://noelquirke.github.io/Site4SoreEyes/index.html
 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
