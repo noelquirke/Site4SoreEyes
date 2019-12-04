@@ -80,8 +80,11 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 <h3>Content</h3>
 <h3>Tools Used</h3>
   <ul>
-  <li>https://www.birme.net/ - used to resize all the images so they match</li>
-  <li>https://tinyjpg.com/ - used to compress the images for smoother and faster performance</li>
+  <li>https://www.birme.net/ - used to resize all the images so they match.</li>
+  <li>https://tinyjpg.com/ - was used to compress the images for smoother and faster performance.</li>
+  <li>https://www.google.com/maps/search/opticians/ - this tool was used to provide information on the users local Opticians.</li>
+  <li>https://autoprefixer.github.io/ - this was used to parses my CSS and add vendor prefixes.</li>
+  <li>https://mycolor.space/ - this site was used to match the colour schemes on the page, as shades.</li>
   </ul>
 <h3>Media</h3>
 <h3>Acknowledgements</h3>
