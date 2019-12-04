@@ -30,6 +30,16 @@ As a glasses wearer, I want to get information on conditions, frames and find ne
 <h2>Structure</h2>
 <h3>Skeleton</h3>
 <h3>Technologies Used</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>jQuery</li>
+  <li>Bootstrap - used for the responsive design and collapsable navbar</li>
+  <li>Gitpod - an IDE used to write the code</li>
+  <li>Git - used for version control</li>
+  <li>Font Awesome - all the icons on the website</li>
+</ul>
+
 <h3>Design Decisions</h3>
 <h3>Features</h3>
 <h3>Features left to implement</h3>
