@@ -127,12 +127,8 @@ input[type=submit]:hover {
     color: #00aced;
 }
 
-.fa-google-plus-g {
-    color: #dd4b39;
-}
-
 .fa-instagram {
-    color: #3f729b;
+    color: #8134AF;
 }
 
 .fa-linkedin-in {
@@ -141,7 +137,6 @@ input[type=submit]:hover {
 
 .fa-facebook:hover,
 .fa-twitter:hover,
-.fa-google-plus-g:hover,
 .fa-instagram:hover,
 .fa-linkedin-in:hover {
     color: #d5d5d5;
