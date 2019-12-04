@@ -28,12 +28,13 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 <h3>Skeleton</h3>
 <h3>Technologies Used</h3>
 <ul>
-  <li>HTML</li> - the building blocks (programing langauge) of the project
-  <li>CSS</li> - use for styling the website
-  <li>Bootstrap - used for the responsive design and collapsable navbar</li>
-  <li>Gitpod - an IDE used to write the code</li>
-  <li>Git - used for version control</li>
-  <li>Font Awesome - all the icons on the website</li>
+  <li>HTML</li> - The building blocks (programing langauge) of the project
+  <li>CSS</li> - Use for styling the website
+  <li>Bootstrap - Used for the responsive design and collapsable navbar</li>
+  <li>Gitpod - An IDE used to write the code</li>
+  <li>Git - Used for version control</li>
+  <li>jQuery</li> - The project uses JQuery to simplify DOM manipulation.
+  <li>Font Awesome - Use for all the icons on the website</li>
 </ul>
 
 <h3>Design Decisions</h3>
