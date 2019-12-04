@@ -1,6 +1,6 @@
 <h1>Site4SoreEyes</h1>
 
-<h2>Project - User-Centric Frontend Development - Code Institute.</h2>
+<h2>User-Centric Frontend Development - Milestone Project One - Code Institute.</h2>
 
 <h2>Project Summary</h2>
 The idea behind the project is to help introduce a user friendly site with some basic information.
