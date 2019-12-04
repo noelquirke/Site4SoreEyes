@@ -30,7 +30,6 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 <ul>
   <li>HTML</li> - the building blocks (programing langauge) of the project
   <li>CSS</li> - use for styling the website
-  <li>jQuery</li>
   <li>Bootstrap - used for the responsive design and collapsable navbar</li>
   <li>Gitpod - an IDE used to write the code</li>
   <li>Git - used for version control</li>
