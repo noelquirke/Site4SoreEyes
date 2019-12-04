@@ -18,21 +18,18 @@ My UX process is to make looking after your eyes easy. My project is aimed at us
 As a glasses wearer, I want to get information on conditions, frames and find nearby opticians, so that I can look after the health of my eyes. 
 
 <h3>Site Owners</h3>
-
+As the site owner, I wanted to achieve a singular place glasses or potential glasses wearers will come for all their optical information. 
 
 <h2>Strategy</h2> 
 <h3>User Needs</h3>
 <h3>Technical Capabilites</h3>
-<h3>Business Vision</h3>
-
-<h2>Scope</h2>
 
 <h2>Structure</h2>
 <h3>Skeleton</h3>
 <h3>Technologies Used</h3>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML</li> - the building blocks (programing langauge) of the project
+  <li>CSS</li> - use for styling the website
   <li>jQuery</li>
   <li>Bootstrap - used for the responsive design and collapsable navbar</li>
   <li>Gitpod - an IDE used to write the code</li>
@@ -75,12 +72,15 @@ This site is hosted using Github pages, and is deployed directly from the master
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 <h2>Bugs</h2>
+I ran into technical issues while using Bootstrap for sizing the carousel and navigation bar.
 
 <h2>Credits</h2>
+
 <h3>Content</h3>
   <ul>
   <li>https://en.wikipedia.org/ - Use for providing information on common eye conditions, also providing links for further information</li>
   </ul>
+  
 <h3>Tools Used</h3>
   <ul>
   <li>https://www.birme.net/ - used to resize all the images so they match.</li>
@@ -89,6 +89,7 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
   <li>https://autoprefixer.github.io/ - this was used to parses my CSS and add vendor prefixes.</li>
   <li>https://mycolor.space/ - this site was used to match the colour schemes on the page, as shades.</li>
   </ul>
+  
 <h3>Media</h3>
 <ul>
   The images used on the site are from:
@@ -97,6 +98,7 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
   <li></li>
   <li></li>
 </ul>
-<h3>Acknowledgements</h3>
 
+<h3>Acknowledgements</h3>
+<p>I received inspiration from sites sush as: Bootstrap, Youtube, Google and W3Schools.</p>
 
