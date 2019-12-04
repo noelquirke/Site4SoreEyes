@@ -44,13 +44,13 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 <h3>Features</h3>
 <ul>
   <li>Nav bar that is easily used, acccesable and fluid.</li>
-  <li>Contact section to speak with us.</li>
   <li>Smooth scrolling which is better UX.</li>
   <li>Eye catching images.</li>
   <li>Google Maps linked to local Opticians</li>
 </ul>
 
 <h3>Features left to implement</h3>
+<li>Contact section to speak with us.</li>
 
 <h2>Testing</h2>
 <p>During the initial stages of the project I used Chrome developer tools for testing my site. Using the device toolbar to continually check that my structure and content worked on the mobile and desktop screen as intended. I frequently tested the different classes and rules that were applying to different elements to bug test on things that weren't behaving as they should, but also to test out possible solutions before moving those solutions into my code.</p>
@@ -112,7 +112,6 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 <h3>Acknowledgements</h3>
 <p>I received inspiration from sites sush as: Bootstrap, Youtube, Google and W3Schools.</p>
-<p>I would like to specially express my deepest gratitude to my mentor Ali Ashik for his advise and support through out the project and the community of Slack for providing all the tips and tricks to completing a project.</p><br>
+<p>I would like to specially express my deepest gratitude to my mentor Ali Ashik for his advise and support through out the project and the community of Slack for providing all the tips and tricks to completing a project.</p>
 <p>This project is for educational use only and was created for the Code Institute Module of User Centric front end development.</p>
-
-<br><p>Created by Noel Quirke.</p>
+<p>Created by Noel Quirke.</p>
