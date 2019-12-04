@@ -95,7 +95,7 @@ I ran into technical issues while using Bootstrap for sizing the carousel and na
 <ul>
   The images used on the site are from:
   <li>https://www.pexels.com/ - for slider images and fixed background</li>
-  <li></li>
+  <li>https://www.webmd.com/ - for the images used in common eye conditions</li>
   <li></li>
   <li></li>
 </ul>
@@ -103,3 +103,6 @@ I ran into technical issues while using Bootstrap for sizing the carousel and na
 <h3>Acknowledgements</h3>
 <p>I received inspiration from sites sush as: Bootstrap, Youtube, Google and W3Schools.</p>
 
+<p>This project is for educational use only and was created for the Code Institute Module of User Centric front end development
+
+<br>Created by Noel Quirke.</p>
