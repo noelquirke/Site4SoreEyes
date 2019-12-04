@@ -229,12 +229,12 @@ hr.light-100 {
 }
 
 .carousel-caption h1 {
-    font-size: 250%;
+    font-size: 150%;
 }
 
 .carousel-caption h3{
     color: #fff;
-    font-size: 140%;
+    font-size: 70%;
 }
 .carousel-indicators {
     display: none;
