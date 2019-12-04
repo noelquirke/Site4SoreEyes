@@ -22,7 +22,7 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 
 <h2>Strategy</h2> 
 <h3>Technical Capabilites</h3>
-
+<p> A carousel slider for added amination to the site. Links to external sites for further information regarding eye conditions, Google Maps linking all the local Opticians in the area. A contact us form for any questions or concerns users may have. A connect section with includes social media links on appropriate social media icons</p>
 <h2>Structure</h2>
 <h3>Skeleton</h3>
 <p>The homepage will be a landing page for the user and give them a clean, easy to follow design offering concise information. Most of the sites information is on this page in a </p>
@@ -50,7 +50,7 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 </ul>
 
 <h3>Features left to implement</h3>
-<li>Contact section to speak with us.</li>
+<li>Functioning contact section to speak with us.</li>
 
 <h2>Testing</h2>
 <p>During the initial stages of the project I used Chrome developer tools for testing my site. Using the device toolbar to continually check that my structure and content worked on the mobile and desktop screen as intended. I frequently tested the different classes and rules that were applying to different elements to bug test on things that weren't behaving as they should, but also to test out possible solutions before moving those solutions into my code.</p>
