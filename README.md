@@ -47,7 +47,7 @@ I ran the HTML and the CSS through W3C Validation services to ensure that the co
 This site is hosted using Github pages, and is deployed directly from the master branch. You can view the website https://noelquirke.github.io/Site4SoreEyes/index.html
 
 <h3>Deployment Process</h3>
-To deploy this site to Github you can follow these steps.
+<strong>To deploy this site to Github you can follow these steps.</strong>
 
 1. In your Github profile create a new repository, make sure to give it a unique name.
 2. Copy the remot repository URL from the Quick setup page.
@@ -61,7 +61,7 @@ To deploy this site to Github you can follow these steps.
 10. In the settings tab of your new repository scroll down untill you see the Github pages setting and select 'master'.
 11. You can now see the link to your Github pages, make sure to paste it into your README file!
 
-You can read more at this Github help page
+<strong>You can read more at this Github help page.</strong> <br />
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 <h2>Bugs</h2>
