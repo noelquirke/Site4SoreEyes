@@ -27,7 +27,8 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 <h2>Structure</h2>
 <h3>Skeleton</h3>
 <p>The homepage will be a landing page for the user and give them a clean, easy to follow design offering concise information. Most of the sites information is on this page in a </p>
-<p>The second section incoporates information using Google maps to locate all the nearby Opticians for simple, fast action on taking care of your eyes.</p>
+<p>The second page incorporates information using Google maps to locate all the nearby Opticians for simple, fast action on taking care of your eyes.</p>
+<p>The third and final page, uses a contact form (Not currently functioning) so users can submit any concerns or questions they may have.</p>
 <h3>Technologies Used</h3>
 <ul>
   <li>HTML</li> - The building blocks (programing langauge) of the project
@@ -40,7 +41,7 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 </ul>
 
 <h3>Design Decisions</h3>
-<p>The site was designed 
+<p>The site was designed with a clinical aspect. It needed to be clean, free from clutter, bite size information and easy to use.</p> 
 <h3>Features</h3>
 <ul>
   <li>Nav bar that is easily used, acccesable and fluid.</li>
