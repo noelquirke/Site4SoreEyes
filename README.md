@@ -2,7 +2,7 @@
 
 <h2>Project - User-Centric Frontend Development - Code Institute.</h2>
 
-<h3>Project Summary</h3>
+<h2>Project Summary</h2>
 The idea behind the project is to help introduce a user friendly site with some basic information.
 This Website is aimed to provide all the information you need to look after your sight, the simplest way possible.
 
@@ -13,34 +13,38 @@ https://noelquirke.github.io/Site4SoreEyes/index.html
 <h3>UX</h3>
 My UX process is to make looking after your eyes easy. My project is aimed at users who want information on common eye conditions, advice on picking the right frames, and finding an opticians nearby. 
 
-User Stories
+<h2>User Stories</h2>
+<h3>Site Users</h3>
 As a glasses wearer, I want to get information on conditions, frames and find nearby opticians, so that I can look after the health of my eyes. 
 
-Strategy 
-User Needs
-Technical Capabilites 
-Business Vision
+<h3>Site Owners</h3>
 
-Scope
 
-Structure
-Skeleton
-Design Decisions
+<h2>Strategy</h2> 
+<h3>User Needs</h3>
+<h3>Technical Capabilites</h3>
+<h3>Business Vision</h3>
 
-Features
-Features left to implement
+<h2>Scope</h2>
 
-Technologies Used
+<h2>Structure</h2>
+<h3>Skeleton</h3>
+<h3>Design Decisions</h3>
+<h3>Features</h3>
+<h3>Features left to implement</h3>
 
-Testing 
+<h2>Technologies Used</h2>
+
+<h2>Testing</h2>
 During the initial stages of the project I used Chrome developer tools for testing my site. Using the device toolbar to continually check that my structure and content worked on the mobile and desktop screen as intended. I frequently tested the different classes and rules that were applying to different elements to bug test on things that weren't behaving as they should, but also to test out possible solutions before moving those solutions into my code.
 
 I have tested the site in a range of browsers Chrome, Opera, Firefox, Microsoft edge and Internet explorer.
 
 I ran the HTML and the CSS through W3C Validation services to ensure that the code that i have written does not have any syntax errors.
 
-results and outcomes
-Deployment
+<h2>Results and Outcomes</h2>
+
+<h2>Deployment</h2>
 This site is hosted using Github pages, and is deployed directly from the master branch. You can view the website https://noelquirke.github.io/Site4SoreEyes/index.html
 
 Deployment Process
