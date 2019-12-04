@@ -77,7 +77,13 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 <h2>Bugs</h2>
 
 <h2>Credits</h2>
-
-<h2>Acknowledgements</h2>
+<h3>Content</h3>
+<h3>Tools Used</h3>
+  <ul>
+  <li>https://www.birme.net/ - used to resize all the images so they match</li>
+  <li>https://tinyjpg.com/ - used to compress the images for smoother and faster performance</li>
+  </ul>
+<h3>Media</h3>
+<h3>Acknowledgements</h3>
 
 
