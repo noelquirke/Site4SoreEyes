@@ -94,15 +94,14 @@ I ran into technical issues while using Bootstrap for sizing the carousel and na
 <h3>Media</h3>
 <ul>
   The images used on the site are from:
-  <li>https://www.pexels.com/ - for slider images and fixed background</li>
+  <li>https://www.pexels.com/ - for carousel images and fixed background</li>
   <li>https://www.webmd.com/ - for the images used in common eye conditions</li>
-  <li></li>
-  <li></li>
+  <li>https://beautyhooked.com/ - for the images used in the facial shapes section</li>
 </ul>
 
 <h3>Acknowledgements</h3>
 <p>I received inspiration from sites sush as: Bootstrap, Youtube, Google and W3Schools.</p>
 <p>I would like to specially express my deepest gratitude to my mentor Ali Ashik for his advise and support through out the project and the community of Slack for providing all the tips and tricks to completing a project.</p><br>
-<p>This project is for educational use only and was created for the Code Institute Module of User Centric front end development
+<p>This project is for educational use only and was created for the Code Institute Module of User Centric front end development.</p>
 
-<br>Created by Noel Quirke.</p>
+<br><p>Created by Noel Quirke.</p>
