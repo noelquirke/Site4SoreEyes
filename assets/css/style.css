@@ -45,7 +45,7 @@ html, body {
     color: #fff;
     font-size: 200%;
     font-weight: 500;
-    text-shadow: 1px 1px 1px 15px #000;
+    text-shadow: 1px 1px 15px #000;
     padding-bottom: 1rem;
 }
 
@@ -77,10 +77,6 @@ html, body {
     color: #222;
 }
 
-
-.btn-outline-secondary {
-    background-color:
-}
 /* Contact Form */
 input[type=text], select, textarea {
   width: 100%; 
