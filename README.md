@@ -7,7 +7,7 @@ The idea behind the project is to help introduce a user friendly site with some 
 This Website is aimed to provide all the information you need to look after your sight, the simplest way possible.
 
 <h3>Website</h3>
-A deployed link to the website can be found here.
+A deployed link to the website can be found here. <br />
 https://noelquirke.github.io/Site4SoreEyes/index.html
 
 <h3>UX</h3>
@@ -29,11 +29,10 @@ As a glasses wearer, I want to get information on conditions, frames and find ne
 
 <h2>Structure</h2>
 <h3>Skeleton</h3>
+<h3>Technologies Used</h3>
 <h3>Design Decisions</h3>
 <h3>Features</h3>
 <h3>Features left to implement</h3>
-
-<h2>Technologies Used</h2>
 
 <h2>Testing</h2>
 During the initial stages of the project I used Chrome developer tools for testing my site. Using the device toolbar to continually check that my structure and content worked on the mobile and desktop screen as intended. I frequently tested the different classes and rules that were applying to different elements to bug test on things that weren't behaving as they should, but also to test out possible solutions before moving those solutions into my code.
