@@ -78,6 +78,9 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 
 <h2>Credits</h2>
 <h3>Content</h3>
+  <ul>
+  <li>https://en.wikipedia.org/ - Use for providing information on common eye conditions, also providing links for further information</li>
+  </ul>
 <h3>Tools Used</h3>
   <ul>
   <li>https://www.birme.net/ - used to resize all the images so they match.</li>
@@ -89,7 +92,7 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 <h3>Media</h3>
 <ul>
   The images used on the site are from:
-  <li></li>
+  <li>https://www.pexels.com/ - for slider images and fixed background</li>
   <li></li>
   <li></li>
   <li></li>
