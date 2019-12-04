@@ -21,7 +21,6 @@ As a glasses wearer, I want to get information on conditions, frames and find ne
 As the site owner, I wanted to achieve a singular place glasses or potential glasses wearers will come for all their optical information. 
 
 <h2>Strategy</h2> 
-<h3>User Needs</h3>
 <h3>Technical Capabilites</h3>
 
 <h2>Structure</h2>
@@ -53,11 +52,11 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 <h3>Features left to implement</h3>
 
 <h2>Testing</h2>
-During the initial stages of the project I used Chrome developer tools for testing my site. Using the device toolbar to continually check that my structure and content worked on the mobile and desktop screen as intended. I frequently tested the different classes and rules that were applying to different elements to bug test on things that weren't behaving as they should, but also to test out possible solutions before moving those solutions into my code.
+<p>During the initial stages of the project I used Chrome developer tools for testing my site. Using the device toolbar to continually check that my structure and content worked on the mobile and desktop screen as intended. I frequently tested the different classes and rules that were applying to different elements to bug test on things that weren't behaving as they should, but also to test out possible solutions before moving those solutions into my code.</p>
 
-I have tested the site in a range of browsers Chrome, Opera, Firefox, Microsoft edge and Internet explorer.
+<p>I have tested the site in a range of browsers Chrome, Opera, Firefox, Microsoft edge and Internet explorer.</p>
 
-I ran the HTML and the CSS through W3C Validation services to ensure that the code that i have written does not have any syntax errors.
+<p>I ran the HTML and the CSS through W3C Validation services to ensure that the code that I have written does not have any syntax errors.</p>
 
 <h2>Results and Outcomes</h2>
 
@@ -83,17 +82,15 @@ This site is hosted using Github pages, and is deployed directly from the master
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 <h2>Bugs</h2>
-I ran into technical issues while using Bootstrap for sizing the carousel and navigation bar.
+<p>I ran into technical issues while using Bootstrap for sizing the carousel, carousel content and navigation bar.</p>
 
 <h2>Credits</h2>
-
 <h3>Content</h3>
   <ul>
   <li>https://en.wikipedia.org/ - Use for providing information on common eye conditions, also providing links for further information.</li>
   <li>https://www.specsavers.ie/- provided information on the best frames for the right face shapes.</li>
   </ul>
-  
-<h3>Tools Used</h3>
+  <h3>Tools Used</h3>
   <ul>
   <li>https://www.birme.net/ - used to resize all the images so they match.</li>
   <li>https://tinyjpg.com/ - was used to compress the images for smoother and faster performance.</li>
