@@ -1,16 +1,16 @@
-Site4SoreEyes
+<h1>Site4SoreEyes</h1>
 
-Project - User-Centric Frontend Development - Code Institute.
+<h2>Project - User-Centric Frontend Development - Code Institute.</h2>
 
-Project Summary
+<h3>Project Summary</h3>
 The idea behind the project is to help introduce a user friendly site with some basic information.
 This Website is aimed to provide all the information you need to look after your sight, the simplest way possible.
 
-Website
+<h3>Website</h3>
 A deployed link to the website can be found here.
 https://noelquirke.github.io/Site4SoreEyes/index.html
 
-UX
+<h3>UX</h3>
 My UX process is to make looking after your eyes easy. My project is aimed at users who want information on common eye conditions, advice on picking the right frames, and finding an opticians nearby. 
 
 User Stories
