@@ -48,7 +48,8 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
   <li>Smooth scrolling which is better UX.</li>
   <li>Eye catching images.</li>
   <li>Google Maps linked to local Opticians</li>
-<ul>
+</ul>
+
 <h3>Features left to implement</h3>
 
 <h2>Testing</h2>
@@ -85,11 +86,13 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 <p>I ran into technical issues while using Bootstrap for sizing the carousel, carousel content and navigation bar.</p>
 
 <h2>Credits</h2>
+
 <h3>Content</h3>
   <ul>
   <li>https://en.wikipedia.org/ - Use for providing information on common eye conditions, also providing links for further information.</li>
   <li>https://www.specsavers.ie/- provided information on the best frames for the right face shapes.</li>
   </ul>
+  
   <h3>Tools Used</h3>
   <ul>
   <li>https://www.birme.net/ - used to resize all the images so they match.</li>
