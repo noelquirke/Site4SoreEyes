@@ -78,7 +78,8 @@ I ran into technical issues while using Bootstrap for sizing the carousel and na
 
 <h3>Content</h3>
   <ul>
-  <li>https://en.wikipedia.org/ - Use for providing information on common eye conditions, also providing links for further information</li>
+  <li>https://en.wikipedia.org/ - Use for providing information on common eye conditions, also providing links for further information.</li>
+  <li>https://www.specsavers.ie/- provided information on the best frames for the right face shapes.</li>
   </ul>
   
 <h3>Tools Used</h3>
