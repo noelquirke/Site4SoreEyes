@@ -47,7 +47,7 @@ I ran the HTML and the CSS through W3C Validation services to ensure that the co
 <h2>Deployment</h2>
 This site is hosted using Github pages, and is deployed directly from the master branch. You can view the website https://noelquirke.github.io/Site4SoreEyes/index.html
 
-Deployment Process
+<h3>Deployment Process</h3>
 To deploy this site to Github you can follow these steps.
 
 1. In your Github profile create a new repository, make sure to give it a unique name.
@@ -65,9 +65,10 @@ To deploy this site to Github you can follow these steps.
 You can read more at this Github help page
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
-Bugs
+<h2>Bugs</h2>
 
-Credits
-Acknowledgements
+<h2>Credits</h2>
+
+<h2>Acknowledgements</h2>
 
 
