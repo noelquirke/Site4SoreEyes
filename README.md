@@ -87,6 +87,13 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
   <li>https://mycolor.space/ - this site was used to match the colour schemes on the page, as shades.</li>
   </ul>
 <h3>Media</h3>
+<ul>
+  The images used on the site are from:
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 <h3>Acknowledgements</h3>
 
 
