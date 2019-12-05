@@ -83,7 +83,7 @@ This site is hosted using Github pages, and is deployed directly from the master
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
 <h2>Bugs</h2>
-<p>I ran into technical issues while using Bootstrap for sizing the carousel, carousel content and navigation bar.</p>
+<p>I ran into technical issues while using Bootstrap for sizing the carousel, carousel content and navigation bar. I over came them by inputting style functions directly into the HTML file.</p>
 
 <h2>Credits</h2>
 
