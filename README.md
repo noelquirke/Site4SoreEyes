@@ -25,7 +25,7 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 <p> A carousel slider for added amination to the site. Links to external sites for further information regarding eye conditions, Google Maps linking all the local Opticians in the area. A contact us form for any questions or concerns users may have. A connect section with includes social media links on appropriate social media icons</p>
 <h2>Structure</h2>
 <h3>Skeleton</h3>
-<p>The homepage will be a landing page for the user and give them a clean, easy to follow design offering concise information. Most of the sites information is on this page in a </p>
+<p>The homepage will be a landing page for the user and give them a clean, easy to follow design offering concise information. Most of the sites information is on this page in a scroll style.</p>
 <p>The second page incorporates information using Google maps to locate all the nearby Opticians for simple, fast action on taking care of your eyes.</p>
 <p>The third and final page, uses a contact form (Not currently functioning) so users can submit any concerns or questions they may have.</p>
 <h3>Technologies Used</h3>
@@ -40,7 +40,7 @@ As the site owner, I wanted to achieve a singular place glasses or potential gla
 </ul>
 
 <h3>Design Decisions</h3>
-<p>The site was designed with a clinical aspect. It needed to be clean, free from clutter, bite size information and easy to use.</p> 
+<p>The site was designed with a clinical aspect. It needed to be clean, free from clutter, bite size information and easy to use. With a high level of contrast for easier reading for the visually impaired. </p> 
 <h3>Features</h3>
 <ul>
   <li>Nav bar that is easily used, acccesable and fluid.</li>
@@ -90,16 +90,16 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 <h3>Content</h3>
   <ul>
   <li>https://en.wikipedia.org/ - Use for providing information on common eye conditions, also providing links for further information.</li>
-  <li>https://www.specsavers.ie/- provided information on the best frames for the right face shapes.</li>
+  <li>https://www.specsavers.ie/- Provided information on the best frames for the right face shapes.</li>
   </ul>
   
   <h3>Tools Used</h3>
   <ul>
-  <li>https://www.birme.net/ - used to resize all the images so they match.</li>
-  <li>https://tinyjpg.com/ - was used to compress the images for smoother and faster performance.</li>
-  <li>https://www.google.com/maps/search/opticians/ - this tool was used to provide information on the users local Opticians.</li>
-  <li>https://autoprefixer.github.io/ - this was used to parses my CSS and add vendor prefixes.</li>
-  <li>https://mycolor.space/ - this site was used to match the colour schemes on the page, as shades.</li>
+  <li>https://www.birme.net/ - Used to resize all the images so they match.</li>
+  <li>https://tinyjpg.com/ - Was used to compress the images for smoother and faster performance.</li>
+  <li>https://www.google.com/maps/search/opticians/ - This tool was used to provide information on the users local Opticians.</li>
+  <li>https://autoprefixer.github.io/ - This was used to parses my CSS and add vendor prefixes.</li>
+  <li>https://mycolor.space/ - This site was used to match the colour schemes on the page, as shades.</li>
   </ul>
   
 <h3>Media</h3>
@@ -111,7 +111,7 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 </ul>
 
 <h3>Acknowledgements</h3>
-<p>I received inspiration from sites sush as: Bootstrap, Youtube, Google and W3Schools.</p>
+<p>I received inspiration from sites sush as: Bootstrap, Youtube, Google and W3Schools, and my own personal experience from working in Opticians.</p>
 <p>I would like to specially express my deepest gratitude to my mentor Ali Ashik for his advise and support through out the project and the community of Slack for providing all the tips and tricks to completing a project.</p>
 <p>This project is for educational use only and was created for the Code Institute Module of User Centric front end development.</p>
 <p>Created by Noel Quirke.</p>
